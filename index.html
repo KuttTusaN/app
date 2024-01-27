@@ -43,8 +43,23 @@
       rel="icon"
       type="image/png"
       href="https://res.cloudinary.com/dxip0zvuo/image/upload/v1705915840/Home/41c08727a4813737ac23882416d27841.png" />
-    <link rel="stylesheet" type="text/css" href="path/to/your/stylesheet.css" />
-    -->
+
+    <!-- Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-MKDZV53NHG"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-MKDZV53NHG", {
+        stream_id: "6679719386",
+        stream_name: "Direct TV",
+        page_path: "/app",
+      });
+    </script>
 
     <style>
       /* Reset and Base Styles */
@@ -54,8 +69,10 @@
         color: #333;
         margin: 0;
         padding: 0;
-        background: url(https://static.vecteezy.com/system/resources/thumbnails/011/731/472/small/orange-abstract-background-with-geometric-shapes-concept-free-vector.jpg)
+        background: url(https://static.vecteezy.com/system/resources/previews/004/814/836/non_2x/abstract-style-wavy-background-design-in-multicolor-illustration-motion-wallpaper-pattern-geometric-wave-glow-colorful-digital-dynamic-3d-art-for-web-landingpage-presentation-liquid-fluid-vector.jpg)
           center/cover;
+        background-size: cover;
+        background-repeat: no-repeat;
       }
 
       .container {
