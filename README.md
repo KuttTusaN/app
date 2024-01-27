@@ -7,7 +7,7 @@ Welcome to the Indian IPTV Channels repository! Here, you can access a collectio
 To get started, follow these simple steps:
 
 1. **Download the Live TV App:**
-   - Visit our official website: [https://kutttusan.github.io/app/](https://kutttusan.github.io/app/)
+   - Visit official website: [https://kutttusan.github.io/app/](https://kutttusan.github.io/app/)
    - Download the live TV app for free.
 
 2. **Install the App:**
