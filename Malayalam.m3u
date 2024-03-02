@@ -1,0 +1,301 @@
+#EXTM3U 
+
+
+#EXTINF: -1 tvg-id="asianet.in" tvg-name="Asianet HD 1" tvg-logo="https://www.keralatv.in/media/2018/11/Asianet-HD-channel-high-clarity-logo.png" group-title="MALAYALAM", Asianet HD 1
+http://watchindia.net:8880/live/63005/500505/276.ts
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: KairaliArabia" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_arabia.png" group-title="MALAYALAM",MY: KairaliArabia
+http://starshare.live:8080/live/53rumaiz87/7567new977/85928.ts
+
+#EXTINF: -1 tvg-id="asianethd.in" tvg-name="Asianet HD 2" tvg-logo="https://www.keralatv.in/media/2018/11/Asianet-HD-channel-high-clarity-logo.png" group-title="MALAYALAM", Asianet HD 2
+http://watchindia.net:8880/live/63005/500505/2216.ts
+
+#EXTINF: -1 tvg-id="asianet.in" tvg-name="Asianet" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Asianet.png" group-title="MALAYALAM", Asianet
+http://watchindia.net:8880/live/63005/500505/2321.ts
+
+
+
+#EXTINF: -1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies 1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/asianet-movies-white.png" group-title="MALAYALAM", Asianet Movies hotstar
+http://watchindia.net:8880/live/63005/500505/278.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: Asianet Movies HD" tvg-logo="https://indiantvinfo.com/media/2023/03/Asianet-Movies-HD.png" group-title="MALAYALAM",MY: Asianet Movies HD
+http://starshare.live:8080/live/53rumaiz87/7567new977/177842.ts
+
+
+
+#EXTINF: -1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies 2" tvg-logo="https://www.keralatv.in/media/2012/08/Asianet-Movies-Logo.jpg" group-title="MALAYALAM", Asianet Movies SD
+http://watchindia.net:8880/live/63005/500505/2217.ts
+
+
+#EXTINF: -1 tvg-id="asianetplus.in" tvg-name="Asianet Plus " tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Plus-Live.png" group-title="MALAYALAM", Asianet Plus 
+http://watchindia.net:8880/live/63005/500505/277.ts
+
+
+
+#EXTINF: -1 tvg-id="asianetplus.in" tvg-name="Asianet Plus " tvg-logo="https://www.keralatv.in/media/2022/03/Asianet-Plus-Live.png" group-title="MALAYALAM", Asianet Plus SD
+http://watchindia.net:8880/live/63005/500505/2240.ts
+
+
+
+#EXTINF: -1 tvg-id="suryahd.in" tvg-name="Surya TV HD " tvg-logo="https://2.bp.blogspot.com/-sP7G3dIkQG8/XIIBmfHt9VI/AAAAAAAAL1w/Y6wWIEW86VQI2dAb98pX2gI9tvDh5pAJACLcBGAs/s1600/Surya_HD.png" group-title="MALAYALAM", Surya TV HD 
+http://watchindia.net:8880/live/63005/500505/279.ts
+
+
+#EXTINF: -1 tvg-id="suryamovies.in" tvg-name="Surya Movies" tvg-logo="https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/Surya_Movies.png" group-title="MALAYALAM", Surya Movies
+http://watchindia.net:8880/live/63005/500505/298.ts
+
+#EXTINF: -1 tvg-id="suryacomedy.in" tvg-name="Surya Comedy" tvg-logo="https://www.keralatv.in/media/2017/04/Surya-Comedy-TV-Channel-Logo.jpg" group-title="MALAYALAM", Surya Comedy
+http://watchindia.net:8880/live/63005/500505/299.ts
+
+
+#EXTINF: -1 tvg-id="suryamusic.in" tvg-name="Surya Music" tvg-logo="https://www.logolynx.com/images/logolynx/34/34cdcc906c3cbff0c303dee3d592e2b0.jpeg" group-title="MALAYALAM", Surya Music
+http://watchindia.net:8880/live/63005/500505/285.ts
+
+
+#EXTINF: -1 tvg-id="mazhavilmanoramahd.in" tvg-name="Mazhavil Manorama HD 2" tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo-768x1014.png" group-title="MALAYALAM", Mazhavil Manorama HD 
+http://watchindia.net:8880/live/63005/500505/2231.ts
+
+
+
+#EXTINF: -1 tvg-id="zeekeralamhd.in" tvg-name="Zee Keralam HD" tvg-logo="https://www.keralatv.in/media/2019/02/Zee-Keralam-HD-Logo.png" group-title="MALAYALAM", Zee Keralam HD
+http://watchindia.net:8880/live/63005/500505/287.ts
+
+
+#EXTINF: -1 tvg-id="flowers.in" tvg-name="Flowers TV 1" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Flowers.png" group-title="MALAYALAM", Flowers TV 
+http://watchindia.net:8880/live/63005/500505/2.ts
+
+
+
+
+#EXTINF: -1 tvg-id="news24.in" tvg-name="24 News 1" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/24_News.png" group-title="MALAYALAM", 24 News 
+http://watchindia.net:8880/live/63005/500505/1064.ts
+
+
+
+#EXTINF: -1 tvg-id="amritatv.in" tvg-name="Amrita" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Amrita.png" group-title="MALAYALAM", Amrita
+http://watchindia.net:8880/live/63005/500505/284.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: AsianetMiddleEast" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asianet_me.png" group-title="MALAYALAM",MY: AsianetMiddleEast
+http://starshare.live:8080/live/53rumaiz87/7567new977/85926.ts
+
+#EXTINF: -1 tvg-id="ddMALAYALAM.in" tvg-name="DD MALAYALAM" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/DD_MALAYALAM.png" group-title="MALAYALAM", DD MALAYALAM
+http://watchindia.net:8880/live/63005/500505/303.ts
+
+
+#EXTINF:-1 tvg-id="kochutv.in" tvg-name="MY: Kochu TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kochu_tv_in.png" group-title="MALAYALAM",MY: Kochu TV
+http://starshare.live:8080/live/53rumaiz87/7567new977/37450.ts
+
+#EXTINF: -1 tvg-id="jaihindtv.in" tvg-name="Jaihind" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Jaihind.png" group-title="MALAYALAM", Jaihind
+http://watchindia.net:8880/live/63005/500505/293.ts
+
+
+#EXTINF: -1 tvg-id="janamtv.in" tvg-name="Janam TV" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Janam_TV.png" group-title="MALAYALAM", Janam TV
+http://watchindia.net:8880/live/63005/500505/309.ts
+
+
+
+#EXTINF: -1 tvg-id="jeevantv.in" tvg-name="Jeevan TV" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Jeevan_TV.png" group-title="MALAYALAM", Jeevan TV
+http://watchindia.net:8880/live/63005/500505/300.ts
+
+
+#EXTINF: -1 tvg-id="kairalinews.in" tvg-name="Kairali News" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Kairali_News.png" group-title="MALAYALAM", Kairali News
+http://watchindia.net:8880/live/63005/500505/308.ts
+
+
+#EXTINF: -1 tvg-id="kairalitv.in" tvg-name="Kairali TV" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Kairali_TV.png" group-title="MALAYALAM", Kairali TV
+http://watchindia.net:8880/live/63005/500505/307.ts
+
+
+#EXTINF: -1 tvg-name="Magnavision TV" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Magnavision_TV.png" group-title="MALAYALAM", Magnavision TV
+http://watchindia.net:8880/live/63005/500505/2233.ts
+
+
+#EXTINF: -1 tvg-id="manoramanews.in" tvg-name="Manorama News" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Manorama_News.png" group-title="MALAYALAM", Manorama News
+http://watchindia.net:8880/live/63005/500505/281.ts
+
+
+
+#EXTINF: -1 tvg-id="mediaone.in" tvg-name="Media One" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Media_One.png" group-title="MALAYALAM", Media One
+http://watchindia.net:8880/live/63005/500505/302.ts
+
+
+#EXTINF: -1 tvg-id="news18.in" tvg-name="News 18" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/News_18.png" group-title="MALAYALAM", News 18
+http://watchindia.net:8880/live/63005/500505/301.ts
+
+
+
+#EXTINF: -1 tvg-id="rajmusixMALAYALAM.in" tvg-name="Raj Musix" tvg-logo="https://watchindia.net/images/channels/Raj_Musix_MALAYALAM.jpg" group-title="MALAYALAM", Raj Musix
+http://watchindia.net:8880/live/63005/500505/286.ts
+
+
+#EXTINF: -1 tvg-id="rajnewsMALAYALAM.in" tvg-name="Raj News" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Raj_News_MALAYALAM.png" group-title="MALAYALAM", Raj News
+http://watchindia.net:8880/live/63005/500505/291.ts
+
+
+
+#EXTINF: -1 tvg-id="reporter.in" tvg-name="Reporter TV" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Reporter_TV.png" group-title="MALAYALAM", Reporter TV
+http://watchindia.net:8880/live/63005/500505/306.ts
+
+
+#EXTINF: -1 tvg-id="safaritv.in" tvg-name="Safari TV" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Safari_TV.png" group-title="MALAYALAM", Safari TV
+http://watchindia.net:8880/live/63005/500505/1301.ts
+
+
+#EXTINF:-1 tvg-logo="http://www.utvpkd.in/assets/img/logo.png" group-title="MALAYALAM", Utv Palakkad
+https://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: Kite Victers" tvg-logo="" group-title="MALAYALAM",MY: Kite Victers
+http://starshare.live:8080/live/53rumaiz87/7567new977/254748.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/REDTV_Logo.jpg/220px-REDTV_Logo.jpg" group-title="MALAYALAM", Red entertainment
+http://nextgeninfotech.ddns.net:8080/red/red.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5R1uXr.png" group-title="MALAYALAM", Pulari Tv
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: Kerala Vision News HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kerala-vision-in.png" group-title="MALAYALAM",MY: Kerala Vision News HD
+http://starshare.live:8080/live/53rumaiz87/7567new977/169850.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="MALAYALAM",KCL TV 
+http://kcltv.livebox.co.in:80/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: VIBGYOR" tvg-logo="http://stariptv.fun/logos/VIBGYOR.png" group-title="MALAYALAM",MY: VIBGYOR
+http://starshare.live:8080/live/53rumaiz87/7567new977/253663.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: ZEE NEWS MALAYALAM" tvg-logo="http://stariptv.fun/logos/zeenews.png" group-title="MALAYALAM",MY: ZEE NEWS MALAYALAM
+http://starshare.live:8080/live/53rumaiz87/7567new977/254257.ts
+
+#EXTINF:-1 tvg-language="MALAYALAM" tvg-logo="https://i.imgur.com/EmBpOWM.png" group-title="MALAYALAM",Real News Kerala (1080p)
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: WE TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="MALAYALAM",MY: WE TV
+http://starshare.live:8080/live/53rumaiz87/7567new977/53199.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://5.imimg.com/data5/PL/BZ/IP/SELLER-82281649/television-broadcasting-500x500.jpg" group-title="MALAYALAM", KeralaBhumi
+http://103.153.92.157:11037/hls/kbh.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7vK4VjV8vJgA07sTnnvpwptJWd-lbUoxdLy_YnimW-E2lM2XopzwyQ-GXa61yL2lz2s" group-title="MALAYALAM", GoSree Vision
+https://5a1178b42cc03.streamlock.net/8068/8068/chunklist_w131331334.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="MALAYALAM", Kappa Tv
+https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://expressott.in/uploads/tv_image/one-tv.jpg" group-title="MALAYALAM", One TV
+http://rtmp.logicwebs.in:1935/live/onetv/chunklist_w1181350522.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jbfTDVHYRybxlVtFsB8BbmljzVrEyCxCnbI3JXzkjR4rU75vL1OQVXS0FBZlR8L33n2k=w240-h480-rw" group-title="MALAYALAM", VCV vision TV
+https://5a1178b42cc03.streamlock.net/8210/8210/chunklist_w69296698.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFflfsL.png" group-title="MALAYALAM", V9 news
+https://5a1178b42cc03.streamlock.net/8180/8180/chunklist_w1954188228.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q9grnXElS7xZI1lDALtKmBpbRDwJiGr7hyi7-cMBd874ZAPUiO_-mlslKZfdWIaZSdGn=w240-h480-rw" group-title="MALAYALAM", Venad news
+https://5a1178b42cc03.streamlock.net/8222/8222/chunklist_w1264214067.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vryjpfK.png" group-title="MALAYALAM", STARNET TV
+https://5a1178b42cc03.streamlock.net/8220/8220/chunklist_w631133165.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM", TCV plus
+http://103.157.104.34:8080/hls/tcvplus.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM", TCV
+http://103.157.104.34:8080/hls/tcv.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mirth.tv/uploads/tv_image/sm/anand-tv-MALAYALAM.png" group-title="MALAYALAM", Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VVurdRHyuXdW_ObUe4jGWrFSLyxmwaYLyHsnCX1Aos7A-09R3x1itlOn9HQrd_cpHEI=w240-h480-rw" group-title="MALAYALAM", Vision media
+http://103.85.204.205:1935/VISIONMEDIA/live/media.m3u8
+
+
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN: STAR MOVIE (4K)." tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIE (4K).
+http://starshare.live:8080/live/53rumaiz87/7567new977/98842.ts
+
+#EXTINF: -1 tvg-id="asianetnews.in" tvg-name="Asianet News 1" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Asianet_News.png" group-title="MALAYALAM", Asianet News 1
+http://watchindia.net:8880/live/63005/500505/268.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY: DarshanaTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/darshana_tv_in.png" group-title="MALAYALAM",MY: DarshanaTV
+http://starshare.live:8080/live/53rumaiz87/7567new977/85924.ts
+
+#EXTINF: -1 tvg-id="kaumudytv.in" tvg-name="Kaumudy TV" tvg-logo="https://watchindia.net/images/channels/MALAYALAM/Kaumudy_TV.png" group-title="MALAYALAM", Kaumudy TV
+http://watchindia.net:8880/live/63005/500505/305.ts
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE INFO ᴴᴰ" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE INFO ᴴᴰ
+http://starshare.live:8080/live/53rumaiz87/7567new977/223726.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 1" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 1
+http://starshare.live:8080/live/53rumaiz87/7567new977/223727.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 2" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 2
+http://starshare.live:8080/live/53rumaiz87/7567new977/223728.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 3" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 3
+http://starshare.live:8080/live/53rumaiz87/7567new977/223729.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 4" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 4
+http://starshare.live:8080/live/53rumaiz87/7567new977/223730.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 5" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 5
+http://starshare.live:8080/live/53rumaiz87/7567new977/223731.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 6" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 6
+http://starshare.live:8080/live/53rumaiz87/7567new977/223732.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 7" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 7
+http://starshare.live:8080/live/53rumaiz87/7567new977/223733.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 8" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 8
+http://starshare.live:8080/live/53rumaiz87/7567new977/223734.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 9" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 9
+http://starshare.live:8080/live/53rumaiz87/7567new977/223735.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 10" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 10
+http://starshare.live:8080/live/53rumaiz87/7567new977/223736.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 11" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 11
+http://starshare.live:8080/live/53rumaiz87/7567new977/223737.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 12" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 12
+http://starshare.live:8080/live/53rumaiz87/7567new977/223738.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 13" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 13
+http://starshare.live:8080/live/53rumaiz87/7567new977/223739.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 14" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 14
+http://starshare.live:8080/live/53rumaiz87/7567new977/223740.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 15" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 15
+http://starshare.live:8080/live/53rumaiz87/7567new977/223741.tsy zx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 16" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 16
+http://starshare.live:8080/live/53rumaiz87/7567new977/223742.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 17" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 17
+http://starshare.live:8080/live/53rumaiz87/7567new977/223743.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 18" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 18
+http://starshare.live:8080/live/53rumaiz87/7567new977/223744.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 19" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 19
+http://starshare.live:8080/live/53rumaiz87/7567new977/223745.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 20" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 20
+http://starshare.live:8080/live/53rumaiz87/7567new977/223746.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 21" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 21
+http://starshare.live:8080/live/53rumaiz87/7567new977/223747.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALAYALAM MOVIE # 22" tvg-logo="" group-title="FLIX PRO (24X7)",MALAYALAM MOVIE # 22
+http://starshare.live:8080/live/53rumaiz87/7567new977/223748.ts
+
+
+
+
+
+
