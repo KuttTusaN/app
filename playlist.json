@@ -1,0 +1,154 @@
+[
+    {
+        "tvg-id": "asianet.in",
+        "tvg-name": "Asianet HD 1",
+        "tvg-logo": "https://www.keralatv.in/media/2018/11/Asianet-HD-channel-high-clarity-logo.png",
+        "group-title": "MALAYALAM",
+        "name": "Asianet HD 1",
+        "url": "http://watchindia.net:8880/live/63005/500505/276.ts"
+    },
+    {
+        "tvg-id": "",
+        "tvg-name": "MY: KairaliArabia",
+        "tvg-logo": "https://www.lyngsat.com/logo/tv/kk/kairali_in_arabia.png",
+        "group-title": "MALAYALAM",
+        "name": "MY: KairaliArabia",
+        "url": "http://starshare.live:8080/live/53rumaiz87/7567new977/85928.ts"
+    },
+    {
+        "tvg-id": "asianethd.in",
+        "tvg-name": "Asianet HD 2",
+        "tvg-logo": "https://www.keralatv.in/media/2018/11/Asianet-HD-channel-high-clarity-logo.png",
+        "group-title": "MALAYALAM",
+        "name": "Asianet HD 2",
+        "url": "http://watchindia.net:8880/live/63005/500505/2216.ts"
+    },
+    {
+        "tvg-id": "asianet.in",
+        "tvg-name": "Asianet",
+        "tvg-logo": "https://watchindia.net/images/channels/MALAYALAM/Asianet.png",
+        "group-title": "MALAYALAM",
+        "name": "Asianet",
+        "url": "http://watchindia.net:8880/live/63005/500505/2321.ts"
+    },
+    {
+        "tvg-id": "asianetmovies.in",
+        "tvg-name": "Asianet Movies 1",
+        "tvg-logo": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/asianet-movies-white.png",
+        "group-title": "MALAYALAM",
+        "name": "Asianet Movies hotstar",
+        "url": "http://watchindia.net:8880/live/63005/500505/278.ts"
+    },
+    {
+        "tvg-id": "",
+        "tvg-name": "MY: Asianet Movies HD",
+        "tvg-logo": "https://indiantvinfo.com/media/2023/03/Asianet-Movies-HD.png",
+        "group-title": "MALAYALAM",
+        "name": "MY: Asianet Movies HD",
+        "url": "http://starshare.live:8080/live/53rumaiz87/7567new977/177842.ts"
+    },
+    {
+        "tvg-id": "asianetmovies.in",
+        "tvg-name": "Asianet Movies 2",
+        "tvg-logo": "https://www.keralatv.in/media/2012/08/Asianet-Movies-Logo.jpg",
+        "group-title": "MALAYALAM",
+        "name": "Asianet Movies SD",
+        "url": "http://watchindia.net:8880/live/63005/500505/2217.ts"
+    },
+    {
+        "tvg-id": "asianetplus.in",
+        "tvg-name": "Asianet Plus",
+        "tvg-logo": "https://www.keralatv.in/media/2022/03/Asianet-Plus-Live.png",
+        "group-title": "MALAYALAM",
+        "name": "Asianet Plus",
+        "url": "http://watchindia.net:8880/live/63005/500505/277.ts"
+    },
+    {
+        "tvg-id": "asianetplus.in",
+        "tvg-name": "Asianet Plus",
+        "tvg-logo": "https://www.keralatv.in/media/2022/03/Asianet-Plus-Live.png",
+        "group-title": "MALAYALAM",
+        "name": "Asianet Plus SD",
+        "url": "http://watchindia.net:8880/live/63005/500505/2240.ts"
+    },
+    {
+        "tvg-id": "suryahd.in",
+        "tvg-name": "Surya TV HD",
+        "tvg-logo": "https://2.bp.blogspot.com/-sP7G3dIkQG8/XIIBmfHt9VI/AAAAAAAAL1w/Y6wWIEW86VQI2dAb98pX2gI9tvDh5pAJACLcBGAs/s1600/Surya_HD.png",
+        "group-title": "MALAYALAM",
+        "name": "Surya TV HD",
+        "url": "http://watchindia.net:8880/live/63005/500505/279.ts"
+    },
+    {
+        "tvg-id": "suryamovies.in",
+        "tvg-name": "Surya Movies",
+        "tvg-logo": "https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/Surya_Movies.png",
+        "group-title": "MALAYALAM",
+        "name": "Surya Movies",
+        "url": "http://watchindia.net:8880/live/63005/500505/298.ts"
+    },
+    {
+        "tvg-id": "suryacomedy.in",
+        "tvg-name": "Surya Comedy",
+        "tvg-logo": "https://www.keralatv.in/media/2017/04/Surya-Comedy-TV-Channel-Logo.jpg",
+        "group-title": "MALAYALAM",
+        "name": "Surya Comedy",
+        "url": "http://watchindia.net:8880/live/63005/500505/299.ts"
+    },
+    {
+        "tvg-id": "suryamusic.in",
+        "tvg-name": "Surya Music",
+        "tvg-logo": "https://www.logolynx.com/images/logolynx/34/34cdcc906c3cbff0c303dee3d592e2b0.jpeg",
+        "group-title": "MALAYALAM",
+        "name": "Surya Music",
+        "url": "http://watchindia.net:8880/live/63005/500505/285.ts"
+    },
+    {
+        "tvg-id": "mazhavilmanoramahd.in",
+        "tvg-name": "Mazhavil Manorama HD 2",
+        "tvg-logo": "https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo-768x1014.png",
+        "group-title": "MALAYALAM",
+        "name": "Mazhavil Manorama HD",
+        "url": "http://watchindia.net:8880/live/63005/500505/2231.ts"
+    },
+    {
+        "tvg-id": "zeekeralamhd.in",
+        "tvg-name": "Zee Keralam HD",
+        "tvg-logo": "https://www.keralatv.in/media/2019/02/Zee-Keralam-HD-Logo.png",
+        "group-title": "MALAYALAM",
+        "name": "Zee Keralam HD",
+        "url": "http://watchindia.net:8880/live/63005/500505/287.ts"
+    },
+    {
+        "tvg-id": "flowers.in",
+        "tvg-name": "Flowers TV 1",
+        "tvg-logo": "https://watchindia.net/images/channels/MALAYALAM/Flowers.png",
+        "group-title": "MALAYALAM",
+        "name": "Flowers TV",
+        "url": "http://watchindia.net:8880/live/63005/500505/2.ts"
+    },
+    {
+        "tvg-id": "news24.in",
+        "tvg-name": "24 News 1",
+        "tvg-logo": "https://watchindia.net/images/channels/MALAYALAM/24_News.png",
+        "group-title": "MALAYALAM",
+        "name": "24 News",
+        "url": "http://watchindia.net:8880/live/63005/500505/1064.ts"
+    },
+    {
+        "tvg-id": "amritatv.in",
+        "tvg-name": "Amrita",
+        "tvg-logo": "https://watchindia.net/images/channels/MALAYALAM/Amrita.png",
+        "group-title": "MALAYALAM",
+        "name": "Amrita",
+        "url": "http://watchindia.net:8880/live/63005/500505/284.ts"
+    },
+    {
+        "tvg-id": "",
+        "tvg-name": "MY: AsianetMiddleEast",
+        "tvg-logo": "https://www.lyngsat.com/logo/tv/aa/asianet_me.png",
+        "group-title": "MALAYALAM",
+        "name": "MY: AsianetMiddleEast",
+        "url": "http://starshare.live:8080/live/53rumaiz87/7567new977/52214.ts"
+    }
+]
